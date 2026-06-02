@@ -3,7 +3,9 @@
 
 int main () {
 	
-	Personagem heroi("Heroi", 100, 10);
+	Setlocale_(LC_)
+	
+	Personagem heroi("Herói", 100, 10);
 	
 	heroi.apresentar();
 	
