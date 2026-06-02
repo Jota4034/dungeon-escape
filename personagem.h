@@ -23,3 +23,9 @@ public:
 	}
 	
 };
+
+class Inimigo : public Personagem {
+	public:
+		std::string tipo;
+		
+};
