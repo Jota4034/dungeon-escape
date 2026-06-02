@@ -1,9 +1,11 @@
 #include <iostream>
 #include "personagem.h"
 
-using namespace std
-
 int main () {
+	
+	Personagem heroi("Heroi", 100, 10);
+	
+	heroi.apresentar();
 	
 	return 0;
 }
